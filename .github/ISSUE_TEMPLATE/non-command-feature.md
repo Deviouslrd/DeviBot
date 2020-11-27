@@ -2,8 +2,8 @@
 name: Non-Command Feature
 about: For features which dont have commands.
 title: ''
-labels: ''
-assignees: ''
+labels: 'TODO, enhancement'
+assignees: 'Deviouslrd'
 
 ---
 
