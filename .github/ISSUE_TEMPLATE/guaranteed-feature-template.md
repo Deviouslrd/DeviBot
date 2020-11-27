@@ -2,7 +2,7 @@
 name: Guaranteed Feature Template
 about: For Features which will be added
 title: ''
-labels: TODO, enhancement
+labels: TODO, enhancement, Guaranteed
 assignees: Deviouslrd
 
 ---
