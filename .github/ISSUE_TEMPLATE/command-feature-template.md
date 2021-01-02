@@ -1,5 +1,5 @@
 ---
-name: Guaranteed Feature Template
+name: Command Feature Template
 about: For Features which will be added
 title: ''
 labels: ''
